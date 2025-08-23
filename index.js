@@ -25,3 +25,5 @@ if (localStorage.getItem('theme') === 'dark') {
     moonIcon.classList.add('hidden');
     sunIcon.classList.remove('hidden');
 }
+
+console.log("By Davronbek and Usmon")
